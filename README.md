@@ -57,6 +57,7 @@ _An app that has a few plus(+) and minus(-) buttons and a counter value info. if
 - _When the count is 100, the (+) and (+10) buttons must be disabled._
 
     **Event Handling: -** _Button onclick events trigger functions that use setCount to update the counter value._
+  
     **Basic & Advanced Logic: -** _No limits on the counter value (can increase or decrease indefinitely)._
 
     **Expert Logic: -**
